@@ -29,6 +29,7 @@ h1 {
 .letter-row {
   display: flex;
 }
+
 #keyboard-cont {
   margin: 1rem 0;
   display: flex;
