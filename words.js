@@ -14,6 +14,7 @@ export const WORDS = [
     'skunk',
     'soala',
     'robin',
+    'rhino',
     'quoll',
     'quail',
     'prawn',
