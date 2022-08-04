@@ -13,7 +13,7 @@ export const WORDS = [
     'snail', 
     'sheep',
     'skunk',
-    'soala',
+    'saola',
     'robin',
     'rhino',
     'quoll',
